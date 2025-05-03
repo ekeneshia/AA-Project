@@ -36,8 +36,8 @@ Download the project code and save it to a convenient location on your computer.
 Navigate to the Project Directory
 Open a terminal or command prompt and change the directory to the project folder. 
 
-2. **Run the Python file/Juypter notebook file**:
+2. **Run the Python file/Juypter notebook file**: Run the individual juypter notebook file
 
 
-## References
+## Citations
 1. Ashtiani, F., Fayazi, S. A., & Vahidi, A. (2020). Multi-intersection traffic management for autonomous vehicles via distributed mixed integer linear programming. arXiv preprint arXiv:2007.06639. 
