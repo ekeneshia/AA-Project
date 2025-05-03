@@ -26,7 +26,7 @@ The project utilizes the following tools:
 - **Python**: Main programming language for development 
 - **Pandas & NumPy**: For data preprocessing and manipulation. 
 - **Matplotlib/Seaborn:**: Visualization tools for exploratory data analysis and performance metrics. 
--**PuLP**: is a python library that is used to solve linear programming (LP) and Mixed Integer Linear Programming (MILP)
+- **PuLP**: is a python library that is used to solve linear programming (LP) and Mixed Integer Linear Programming (MILP)
 
 
 
